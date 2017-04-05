@@ -1,3 +1,13 @@
+# YoutubeSourceParserSwift3 
+
+==================<br/>
+[![Build Status](https://img.shields.io/travis/movielala/YoutubeSourceParserKit/master.svg)](https://travis-ci.org/movielala/YoutubeSourceParserKit)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg)](https://github.com/mobileplayer/mobileplayer-ios)
+
+
+YouTube Video Link Parser for Swift3. Heavily inspried from mojilala's repo [YoutubeSourceParserKit](https://github.com/mojilala/YoutubeSourceParserKit)
+
 
 ##Usage
 
